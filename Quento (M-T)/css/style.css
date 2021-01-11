@@ -17,12 +17,12 @@
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
 
-html, body {margin: 0; height: 100%; overflow: hidden}
-
-body {
+html, body {
+  height: 100%;
   background: #000000;
   padding: 0;
   margin: 0;
+  overflow: hidden;
   font-family: sans-serif;
 
   -webkit-transition: background-color .3s ease-out;
