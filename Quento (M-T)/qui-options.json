@@ -1,0 +1,9 @@
+{
+  "orientation" : "portrait",
+	"noverticalbounce" : true,
+ 	"statusbarhidden" : true,
+  "enableshake" : true,
+  "features": {
+    "inapppurchase": {}
+  }
+}

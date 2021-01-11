@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "local_path": "index.html"
+      }
+   },
+   "description": "Quento is a little puzzle game that makes simple math fun for all ages! It gives you the answer - but can you do the math?",
+   "icons": {
+      "128": "icon-128.png",
+      "16": "icon-16.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDKbVQZiZVhikmKpuY2E0YQbm0RBBNQGyZXwLT/uiGy1VSmiv6xO+hf5RwbY/nju3R+jcgR+iGcAN1igE2aO7352wg5SYdTmUpk6wqfGN8K0WrRzXwvhgalAOblHC7inj+bPdBW8bDeXmTzxCz6a86QpadXguyBfYxF3bw2g7j5twIDAQAB",
+   "manifest_version": 2,
+   "name": "Quento",
+   "offline_enabled": true,
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.1"
+}
